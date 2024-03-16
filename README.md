@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF1bGF0ZjlweHh3bWszemh3YjBkb3hiNXA5azBqanNsZWVsazJkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHUONhmbo448/giphy.gif" width="500"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge" alt="Go Badge">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge">
   <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge" alt="C# Badge">
