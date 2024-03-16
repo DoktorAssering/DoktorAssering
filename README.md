@@ -24,7 +24,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: I mainly study golang, python, sql. Well, everything that is useful at least once in work.
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram Badge")](https:\\t.me/Assering)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge")](https:\\t.me/Assering)
   
 ---
 
