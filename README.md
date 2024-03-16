@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=DoktorAssering&color=blueviolet)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF1bGF0ZjlweHh3bWszemh3YjBkb3hiNXA5azBqanNsZWVsazJkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHUONhmbo448/giphy.gif" width="500"/>
 </div>
@@ -10,7 +9,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge">
-  
+  ![](https://komarev.com/ghpvc/?username=DoktorAssering&color=blueviolet)
 </div>
 
 <!--
