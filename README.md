@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://i.gifer.com/3M7.gif](https://i.gifer.com/3M7.gif)" width="100"/>
+  <img src="https://i.gifer.com/3M7.gif" width="100"/>
 </div>
 
 <!--
