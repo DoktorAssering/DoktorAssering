@@ -3,7 +3,6 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".NET Badge">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge" alt="Go Badge">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge">
   <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge" alt="C# Badge">
