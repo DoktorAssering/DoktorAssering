@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge">
 </div>
 
-![](https://komarev.com/ghpvc/?username=DoktorAssering&color=blueviolet)
+              ![](https://komarev.com/ghpvc/?username=DoktorAssering&color=blueviolet)
 
 <!--
 **DoktorAssering/DoktorAssering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
