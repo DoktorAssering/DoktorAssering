@@ -2,6 +2,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF1bGF0ZjlweHh3bWszemh3YjBkb3hiNXA5azBqanNsZWVsazJkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHUONhmbo448/giphy.gif" width="500"/>
 </div>
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".NET Badge">
+  
+</div>
+
 <!--
 **DoktorAssering/DoktorAssering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
