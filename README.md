@@ -24,7 +24,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: I mainly study golang, python, sql. Well, everything that is useful at least once in work.
 
-- :mailbox: How to reach me:   [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge")](https://t.me/Assering)  [![Email Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=flat-square)](https://mailto:andryafpooo@mail.ru)
+- :mailbox: How to reach me:   [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge")](https://t.me/Assering)  [![Email Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=flat-square)](https://mailto:andryafpooo@mail.ru) ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
 
 ---
 
