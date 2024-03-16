@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge" alt="SQLite Badge">
   <h1/>
   <h2>
-    <a href="t.me/Assering">
+    <a href="https:\\t.me/Assering">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram Badge">
   </a>
   <img src="https://komarev.com/ghpvc/?username=DoktorAssering&color=blueviolet" alt="" align="left"/>
