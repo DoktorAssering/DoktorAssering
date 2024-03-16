@@ -3,7 +3,6 @@
 </div>
 
 <div id="badges" align="center">
-  <h1>
     <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge" alt="Go Badge">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge">
     <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge" alt="C# Badge">
@@ -14,14 +13,6 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" alt="Microsoft SQL Server Badge">
     <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge" alt="SQLite Badge">
-  <h1/>
-   <p>Social Media</p>
-  <h2 align="center">
-    <a href="https:\\t.me/Assering">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram Badge">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=DoktorAssering&color=blueviolet" alt=""/>
-  <h2/>
 </div>
 
 ---
@@ -33,9 +24,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: I mainly study golang, python, sql. Well, everything that is useful at least once in work.
 
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram Badge")](https:\\t.me/Assering)
+  
 ---
 
 ### :fire: My Stats :
+<img src="https://komarev.com/ghpvc/?username=DoktorAssering&color=blueviolet" alt=""/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DoktorAssering&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoktorAssering&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
