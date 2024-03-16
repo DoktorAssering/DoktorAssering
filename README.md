@@ -20,11 +20,11 @@
 ### :japanese_ogre: About Me :
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working on frontend and backend for building web applications and desktop applications.
+- :telescope: - I’m working on frontend and backend for building web applications and desktop applications.
 
-- :seedling: I mainly study golang, python, sql. Well, everything that is useful at least once in work.
+- :seedling: - I mainly study golang, python, sql. Well, everything that is useful at least once in work.
 
-- :mailbox: How to reach me:   [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge")](https://t.me/Assering)  [![Email Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=flat-square)](https://mailto:andryafpooo@mail.ru) [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discordapp.com/users/405359839523373066/)
+- :mailbox: - How to reach me:   [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge")](https://t.me/Assering)  [![Email Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=flat-square)](https://mailto:andryafpooo@mail.ru) [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discordapp.com/users/405359839523373066/)
 
 ---
 
